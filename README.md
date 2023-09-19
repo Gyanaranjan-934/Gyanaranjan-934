@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyanaranjan Sahoo</h1>
 <h3 align="center">I am a backend developer</h3>
 
-- 🔭 I’m currently working on [DeshDarpan](https://github.com/Gyanaranjan-934/DeshDarpan)
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **ReactJS,Java(Core)**
