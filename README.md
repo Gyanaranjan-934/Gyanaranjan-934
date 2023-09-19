@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [DeshDarpan](https://github.com/Gyanaranjan-934/DeshDarpan)
 
-- 🌱 I’m currently learning **ReactJS,Django REST Framework**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Django,Java(Core)**
+- 💬 Ask me about **ReactJS,Java(Core)**
 
 - 📫 How to reach me **gyanaranjansahoo509@gmail.com**
 
