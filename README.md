@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gyanaranjan Sahoo</h1>
-<h3 align="center">I am a backend developer</h3>
+<h3 align="center">I am a Full-stack developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **ReactJS,Java(Core)**
+- 💬 Ask me about **Javascript,ReactJS,Java(Core)**
 
 - 📫 How to reach me **gyanaranjansahoo509@gmail.com**
 
