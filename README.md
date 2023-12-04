@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gyanaranjansahoo509@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YMEze82GqQg2U7EAM-ryUbqfPeAlE9Uq/view?usp=sharing](https://drive.google.com/file/d/1YMEze82GqQg2U7EAM-ryUbqfPeAlE9Uq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12wnM_b-uH4YJYuVSPCBp7JJfHqI3yG3J/view?usp=sharing](https://drive.google.com/file/d/12wnM_b-uH4YJYuVSPCBp7JJfHqI3yG3J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
